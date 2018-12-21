@@ -6,4 +6,4 @@ Is this pull request fixing a bug in the code and not just a typo in the documen
 
 *** **WE DO NOT ACCEPT ONE-LINER CODE-FIX PULL REQUESTS WITH NO TESTS.** ***  The SQLAlchemy project does **NOT** merge bug fixes that aren't verified through tests, since such unverified code **IS A BUG**.   If you would like us to write the tests, that is fine, please **FILE A BUG REPORT** which includes a **TEST SCRIPT**.   
 
-The vast majority of "drive by" pull requests are incorrect solutions to an ill-defined problem.  Please don't assume that the one line that fixed your problem is the actual fix, **NO MATTER HOW TRIVIAL**.    And above all **HAVE A NICE DAY!!***
+The vast majority of "drive by" pull requests are incorrect solutions to an ill-defined problem.  Please don't assume that the one line that fixed your problem is the actual fix, **NO MATTER HOW TRIVIAL**.    And above all **HAVE A NICE DAY!!**
