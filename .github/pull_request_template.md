@@ -1,5 +1,9 @@
 *** **S T O P ! ! !** ***
 
+**TL;DR: don't submit a one liner "fix" for a code bug, show us your use case. We will fix it.**
+
 Is this pull request fixing a bug in the code and not just a typo in the documentation?   If so, does your pull request include a **TEST CASE** ?   Or have you filed a proper bug report that includes a **TEST CASE** ?
 
-*** **WE DO NOT ACCEPT ONE-LINER CODE-FIX (e.g. "drive by") PULL REQUESTS WITH NO TESTS.** ***  The SQLAlchemy project does **NOT** merge bug fixes that aren't verified through tests, since such unverified code **IS A BUG**.   If you would like us to write the tests, that is fine, please **FILE A BUG REPORT** which includes a **TEST SCRIPT**.   This test script will show us what it is you actually are trying to do, which trust us, is **EXTREMELY** valuable, because we will often see things in what you are doing that you might not be aware of, which are highly important towards fixing the actual use case, rather than applying an incomplete fix to a poorly specified issue.   Don't assume we "know" what the problem is without showing us.  The effort you can contribute is in WRITING THE TESTS.  If you cannot provide tests, that's fine!  Instead, **FILE A BUG REPORT** that includes a **MINIMAL, COMPLETE, VERIFIABLE EXAMPLE** script, which illustrates, in code, what the problem is. Pull requests that fix just one line and don't **verify their results with a properly written test** CANNOT be merged.
+*** **WE DO NOT ACCEPT ONE-LINER CODE-FIX PULL REQUESTS WITH NO TESTS.** ***  The SQLAlchemy project does **NOT** merge bug fixes that aren't verified through tests, since such unverified code **IS A BUG**.   If you would like us to write the tests, that is fine, please **FILE A BUG REPORT** which includes a **TEST SCRIPT**.   
+
+The vast majority of "drive by" pull requests are incorrect solutions to an ill-defined problem.  Please don't assume that the one line that fixed your problem is the actual fix, **NO MATTER HOW TRIVIAL**.    And above all **HAVE A NICE DAY!!***
