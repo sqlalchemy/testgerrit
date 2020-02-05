@@ -8,4 +8,4 @@ These files are:
 * foo.py
 * bar.py
 
-also supports a, q, z
+new thing 1
