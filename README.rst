@@ -9,3 +9,5 @@ These files are:
 * bar.py
 
 also supports a, q, z
+
+Casel can push to gerrit
