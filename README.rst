@@ -10,4 +10,4 @@ These files are:
 
 also supports a, q, z
 
-Casel can push to gerrit
+gerrit 3
