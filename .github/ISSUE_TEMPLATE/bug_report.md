@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Errors and regressions which include an [MCVE](http://stackoverflow.com/help/mcve) may be posted here; if no reproducing test case, use "Usage Questions"
 title: ''
 labels: requires triage
 assignees: ''
