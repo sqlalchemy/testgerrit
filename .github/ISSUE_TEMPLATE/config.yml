@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Discussions
-    url: https://github.com/sqlalchemy/sqlalchemy/discussions
-    about: Use this for general usage questions and feature improvements
+  - name: Usage Questions
+    url: https://github.com/sqlalchemy/sqlalchemy/discussions/new?category=Usage-Questions
+    about: Questions and Answers for SQLAlchemy Users 
+  - name: Ideas / Feature Proposals
+    url: https://github.com/sqlalchemy/sqlalchemy/discussions/new?category=Ideas
+    about: Use this for initial discussion for new features and suggestions
