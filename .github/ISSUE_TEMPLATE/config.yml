@@ -1,9 +1,9 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Ideas / Feature Proposals
+  - name: Ideas / Feature Proposal (GitHub Discussions)
     url: https://github.com/sqlalchemy/sqlalchemy/discussions/new?category=Ideas
     about: Use this for initial discussion for new features and suggestions
-  - name: Usage Questions
+  - name: Usage Questions (GitHub Discussions)
     url: https://github.com/sqlalchemy/sqlalchemy/discussions/new?category=Usage-Questions
     about: Questions and Answers for SQLAlchemy Users 
   - name: Live Chat on Gitter
