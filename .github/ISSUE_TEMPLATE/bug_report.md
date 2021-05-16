@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Errors and regression reports with **complete reproducing test cases and/or stack traces**. 
+about: Errors and regression reports with complete reproducing test cases and/or stack traces. 
 title: ''
 labels: requires triage
 assignees: ''

@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: SQLAlchemy Community Guide
+    url: https://www.sqlalchemy.org/support.html
+    about: Start here for an overview of SQLAlchemy's support network and posting guidelines
   - name: Ideas / Feature Proposal (GitHub Discussions)
     url: https://github.com/sqlalchemy/sqlalchemy/discussions/new?category=Ideas
     about: Use this for initial discussion for new features and suggestions
