@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Create a bug report
 about: Errors and regression reports with complete reproducing test cases and/or stack traces. 
 title: ''
 labels: requires triage
