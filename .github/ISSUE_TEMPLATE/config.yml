@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/sqlalchemy/sqlalchemy/discussions
+    about: Use this for general usage questions and feature improvements
