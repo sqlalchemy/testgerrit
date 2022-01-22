@@ -1,13 +1,9 @@
 Mike is testing gerrit, github, and all those things.
 
+here we want to test if we can change the gerrit refspec
+to $GERRIT_REFSPEC, hoping this will be a smaller fetch, and
+that it even works.
 
-We include two source files to help work with diffs and things.
+https://plugins.jenkins.io/gerrit-trigger/
 
-These files are:
 
-* foo.py
-* bar.py
-
-also supports a, q, z
-
-gerrit 3
