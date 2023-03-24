@@ -1,9 +1,7 @@
 Mike is testing gerrit, github, and all those things.
 
-here we want to test if we can change the gerrit refspec
-to $GERRIT_REFSPEC, hoping this will be a smaller fetch, and
-that it even works.
+testing the RSA change as I dont know where gerrit
+puts authorized keys
 
-https://plugins.jenkins.io/gerrit-trigger/
 
 
