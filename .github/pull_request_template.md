@@ -1,9 +1,28 @@
-*** **S T O P ! ! !** ***
+<!-- Provide a general summary of your proposed changes in the Title field above -->
 
-**TL;DR: don't submit a one liner "fix" for a code bug, show us your use case. We will fix it.**
+**This project accepts pull requests only for issues that a maintainer has
+marked with the `open for pull requests` label.**
 
-Is this pull request fixing a bug in the code and not just a typo in the documentation?   If so, does your pull request include a **TEST CASE** ?   Or have you filed a proper bug report that includes a **TEST CASE** ?
+A pull request that does not reference an issue, or that references an issue
+which is closed or which does not carry the `open for pull requests` label,
+**is closed automatically**. This is not a judgment on your change; it's how we
+make sure an approach is settled before anyone spends time writing code.
 
-*** **WE DO NOT ACCEPT ONE-LINER CODE-FIX PULL REQUESTS WITH NO TESTS.** ***  The SQLAlchemy project does **NOT** merge bug fixes that aren't verified through tests, since such unverified code **IS A BUG**.   If you would like us to write the tests, that is fine, please **FILE A BUG REPORT** which includes a **TEST SCRIPT**.   
+If you don't have such an issue yet:
 
-The vast majority of "drive by" pull requests are incorrect solutions to an ill-defined problem.  Please don't assume that the one line that fixed your problem is the actual fix, **NO MATTER HOW TRIVIAL**.    And above all **HAVE A NICE DAY!!**
+1. Open an issue describing the problem or the feature, including a complete,
+   runnable example.
+2. Wait for a maintainer to add the `open for pull requests` label.
+3. Then open this pull request, referencing the issue below.
+
+### Fixes
+
+<!-- Put the issue number after the "#" below, for example "Fixes: #1234".
+     The issue must be open and must carry the "open for pull requests"
+     label, or this pull request will be closed automatically. -->
+
+Fixes: #
+
+### Description
+
+<!-- Describe your changes in detail. -->
